@@ -1,8 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "KiCad")(type "KiCad")(uri "/home/aleks/Documents/Kicad/Libs/Connectors_local.pretty/139474320-658-LIB_1841597/1841597/KiCad.pretty")(options "")(descr ""))
-  (lib (name "Samacsys")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Samacsys.pretty")(options "")(descr ""))
-  (lib (name "Snapeda")(type "KiCad")(uri "${KICAD_3RD_PARTY}/Snapeda.pretty")(options "")(descr ""))
-  (lib (name "UltraLibrarian")(type "KiCad")(uri "${KICAD_3RD_PARTY}/UltraLibrarian.pretty")(options "")(descr ""))
-  (lib (name "connector")(type "KiCad")(uri "/home/aleks/Documents/Kicad/Battery_board_8x/connector.pretty")(options "")(descr ""))
-)
